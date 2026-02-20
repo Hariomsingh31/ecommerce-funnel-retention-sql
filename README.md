@@ -1,1 +1,1 @@
-# ecommerce-funnel-retention-sql
+# Ecommerce-funnel-retention-sql
